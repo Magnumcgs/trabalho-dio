@@ -1,3 +1,3 @@
 # trabalho-dio
-inicio do projeto git, e github
+inicio do projeto git e github
 Projeto git, github
